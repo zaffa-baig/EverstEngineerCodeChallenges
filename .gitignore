@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.cache
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# Others
+*.db
+*.jfm
